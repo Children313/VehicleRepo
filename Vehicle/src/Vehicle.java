@@ -4,6 +4,7 @@ public class Vehicle {
     private String model="ACME Model";
     private float price=10000;
     private int numWheels=5;
+    private int numWheels=4;
 
 
     public Vehicle(int passengers, String make, String model, float price, int numWheels) {
