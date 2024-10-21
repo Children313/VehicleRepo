@@ -3,7 +3,6 @@ public class Vehicle {
     private String make="A Make";
     private String model="ACME Model";
     private float price=10000;
-    private int numWheels=5;
     private int numWheels=4;
 
 
